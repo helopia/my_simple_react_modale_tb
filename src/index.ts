@@ -1,0 +1,2 @@
+export { Modale } from "./Modale";
+
